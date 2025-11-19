@@ -165,5 +165,6 @@ lr_model, auc_lr, scaler = train_logistic_regression(X_train, y_train, X_val, y_
 
 ##  Author
 
-Machine Learning Research & Implementation\
+M. M. Arif Bakhtiar
+mmarifbakhtiar.ece.ruet@gmail.com
 Built with Python, Scikit-Learn, Pandas, Matplotlib
